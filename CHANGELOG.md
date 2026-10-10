@@ -11,6 +11,10 @@
 
 ## `gloo-console`
 
+### Version 0.4.1
+
+- fix(console): remove trailing semicolons from macro expansions (#583)
+
 ### Version 0.4.0
 
 - Update MSRV to 1.82 (#505) by @martinfrances107
